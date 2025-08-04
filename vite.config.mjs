@@ -12,7 +12,7 @@ import { fileURLToPath, URL } from 'node:url'
 // https://vitejs.dev/config/
 export default defineConfig({
   // base: '/meedream-redesign/',
-  base: '/vueport/',
+  base: '/medream_vuetify/',
   build: { outDir: 'docs' },
 
   plugins: [
